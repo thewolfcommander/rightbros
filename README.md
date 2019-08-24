@@ -1,2 +1,2 @@
 # rightbros
-Official repo for the Right Bros Blog
+Official repo for RightBros.co
