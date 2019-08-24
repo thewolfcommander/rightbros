@@ -1,0 +1,13 @@
+.c-button-color-main {
+    background: #d67f31!important;
+    color: #2c2f43!important;
+    outline: none;
+    border: none;
+    box-shadow: 2px 3px 4px #d4d9d1;
+}
+
+.c-button-color-main:hover {
+    color: #d67f31!important;
+    box-shadow: 4px 6px 8px #d4d9d1;
+    background: #2c2f43!important;
+}
